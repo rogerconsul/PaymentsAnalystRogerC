@@ -12,7 +12,7 @@ It is a requirement for the Payments Analyst - Selection Process
 1. Clone the repository:
 
 ```
-git clone https://github.com/yourusername/transaction-analysis.git
+git clone git@github.com:rogerconsul/PaymentsAnalystRogerC.git
 cd transaction-analysis
 ```
 2. Create a virtual environment:
