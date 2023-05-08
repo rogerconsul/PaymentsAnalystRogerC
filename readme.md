@@ -13,7 +13,7 @@ It is a requirement for the Payments Analyst - Selection Process
 
 ```
 git clone git@github.com:rogerconsul/PaymentsAnalystRogerC.git
-cd transaction-analysis
+cd PaymentsAnalystRogerC/
 ```
 2. Create a virtual environment:
 ```
