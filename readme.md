@@ -41,4 +41,5 @@ To run the transaction analysis, execute the following command:
 python transaction-analysis.py
 ```
 Follow the prompts to either analyze an individual transaction or all transactions. If you choose to analyze all transactions, a JSON will be created with all the denied transactions and with the reason for each one.
+If you need to simulate a new transaction, select "Create a Transaction". You should provide an User ID and transaction value.
 
